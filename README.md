@@ -1,1 +1,2 @@
 # sympathetic-spirits
+# StudyInSpirits
